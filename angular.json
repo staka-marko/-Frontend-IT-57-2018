@@ -22,6 +22,7 @@
             "assets": [
               "src/assets",
               "src/favicon.ico",
+              "src/_redirects",
                {
                 "glob": "*",
                 "input": "node_modules/font-awesome/fonts",
